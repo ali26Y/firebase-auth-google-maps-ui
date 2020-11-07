@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.app-wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.user-info {
+    margin: 4em 0;
+}
+
+.form-info input {
+    width: 400px;
+    line-height: 40px;
+    padding: 0px 5px;
+}
+
+input {
+    width: auto;
+    line-height: 30px;
+    padding: 0px 5px;
+}
