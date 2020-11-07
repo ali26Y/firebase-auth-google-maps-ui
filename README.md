@@ -35,8 +35,17 @@ REACT_APP_APP_ID="<your_firebase_app_id>"
 
 REACT_APP_MAPS_API="<your_api_key_google_maps>"
 
-
 ```
+
+for Google maps API please ensure you have enabled the following services: 
+
+- Directions API
+- Geocoding API
+- Geolocation API
+- Maps Embed API
+- Maps Javascript API
+- Places API
+
 
 To execute the application on local environment, please issue `npm start` or `yarn start` commands.
 
